@@ -1,7 +1,9 @@
-# ***** DATOS BOOLEANOS *****
+#-------------------------------------------------------------------------------------
+#                       ***** DATOS BOOLEANOS *****
 # El presente codigo implementa un breve ejemplo de implementacion de datos booleanos
 # estos datos solo tienen dos estador Falso Y Verdadero
 # el ejemplo simula el estado de dos sensores encendido(funciona) apagado(no funciona)
+#-------------------------------------------------------------------------------------
 
 #Declara y asigna dos variables de tipo booleano
 Sensor1 = True
