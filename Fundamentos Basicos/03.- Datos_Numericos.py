@@ -1,10 +1,13 @@
+#-----------------------------------------------------------------------------
 #        ***** DATOS NUMERICOS *****
 #    El presente código implementa el uso de datos numericos 
 #    en conjunto con cadenas de caracteres
+#-----------------------------------------------------------------------------
+
 
 NumeroLista = 12 #Variable de tipo entero
 Promedio = 9.23 #Variable de tipo flotante
-Nombre = "Alumno tu promedio es " #cadena de caracteres
+Nombre = "Alumno tu promedio es "
 
 Mensaje = Nombre + str(Promedio) #se convierte el promedio que es un dato numerico a cadena de caracteres
 
