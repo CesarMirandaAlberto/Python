@@ -1,6 +1,8 @@
-# ***** CADENAS DE CARACTERES *****
+#-----------------------------------------------------------------------------
+#                       ***** CADENAS DE CARACTERES *****
 # El presente código implementa cadenas de caracteres
 # Para hacer los casos de prueba y ver como se ejecutan de diferentes formas descomentar los printf
+#-----------------------------------------------------------------------------
 
 # Crea variables y les asigna una cadena de caracteres
 Nombre = "Cesar" 
