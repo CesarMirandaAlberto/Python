@@ -1,8 +1,10 @@
+#-----------------------------------------------------------------------------------------------
 #        **** CICLO WHILE ****
 # El presente código implementa el ciclo while
 # El código simula que un sensor marca 45 grados y tiene que encender un ventilador
 # mientras la temperatura disminuye al mismo tiempo que notifica como baja la temperatura
 # y el estado (encendio o apagado) del ventilador.
+#-----------------------------------------------------------------------------------------------
 
 # Definición de constantes
 Temperatura = 45
