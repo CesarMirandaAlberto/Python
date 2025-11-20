@@ -1,7 +1,9 @@
+#-----------------------------------------------------------------------------
 # **** Operadores Aritmeticos y Asignación ****
 # El presente código implementa el uso de operadores aritmeticos y operador de asignación
 # el código implementa las cuatro operaciones básicas de la aritmetica al mismo tiempo que
 # implementa la asignación de forma corta y normal.
+#-----------------------------------------------------------------------------
 
 #Declaración de variables
 x = 12
