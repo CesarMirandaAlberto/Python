@@ -1,12 +1,14 @@
+#-----------------------------------------------------------------------------
 # ***** ENTRADA DE DATOS DE USUARIO *****
 # El presente código implementa la lectura de datos del teclado 
 # y concatenandolo a un texto asignado desde el código
+#-----------------------------------------------------------------------------
 
 Mensaje=" Bienvenido a python" # Mensaje de bienvenida para concatenar
 
-Nombre =input("Ingresa tu nombre: ") # Creamos una variable llamada Nombre, imprime texto en consola pidiendo el nombre y especificamos(input) que leeremos del teclado
+Nombre =input("Ingresa tu nombre: ") # Pedir nombre desde el teclado
 
-Bienvenida=Nombre + Mensaje # Concatenamos en una nueva variable El nombre leido del teclado con el mensaje
+Bienvenida=Nombre + Mensaje # Concatenación de mensajes
 
 print("!Hola! "+ Bienvenida) #Imprimimos en consola texto mas concatenacion de nombre y mensaje de bienvenida
 
