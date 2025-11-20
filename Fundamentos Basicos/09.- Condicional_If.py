@@ -1,9 +1,11 @@
+#-----------------------------------------------------------------------------
 #           **** CONDICIONAL IF ****
 # El presente código implementa el condicional if- elif- else
 # el código simula que un alumno ingresa su promedio y en base a
 # este mediante el condicional determine si es apto para una beca,
 # examen de selección de alumnos para beca o no es apto para ninguna
 # de las anteriores.
+#-----------------------------------------------------------------------------
 
 # Definición de constantes
 APTO = 9
